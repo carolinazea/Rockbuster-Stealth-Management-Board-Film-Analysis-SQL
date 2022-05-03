@@ -1,4 +1,4 @@
-# SQL_Project
+# Rockbuster Stealth Management Board Film Analysis
 Repository will contain SQL queries 
  * *Rockbuster Stealth Management Board, a movie rental company has faced competition from streaming services such as Netflix and Amazon Prime and is planning to use its existing movie licenses to launch an online video rental service to beat out the competition. As an analyst, I was designed to answer questions that use data-driven answers that Rockbuster can use for their 2020 company strategy, such as which movie titles contributed the most/least in revenue gain, average rental duration, which countries are most customers based in, and whether sale figures vary between geographic regions.*   
 
